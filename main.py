@@ -1,5 +1,4 @@
 import os
-# os.environ["ANTHROPIC_API_KEY"] = "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"
 from dotenv import load_dotenv
 from pydantic import BaseModel
 from langchain_openai import ChatOpenAI
